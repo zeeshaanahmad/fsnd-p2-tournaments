@@ -22,6 +22,7 @@ Follow the guidelines provided in the [project description][1] to set up the vag
 
 ## How to execute tests?
 After following the guidelines in project description and setting up the environment and vagrant vm using `vagrant up` followed by `vagrant ssh`
+
 1. Navigate to tournament project folder `cd /vagrant/tournament`
 2. Write `psql` to go to PostgreSQL
 3. Run `\i tournament.sql` to create and import the tournament database schema.
