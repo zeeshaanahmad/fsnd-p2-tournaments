@@ -18,7 +18,7 @@ This python file contains methods to connect, read, add, delete players and matc
 This python file has scripts to test the methods implemented in tournament.py file which verifies whether all the methods are working and passing the tests.
 
 ## How to setup environment?
-Follow the guidelines provided in the [project description][1] to set up the vagrant vm and clone the [fullstack-nanodegree-vm][2] repository. Clone this repository to `<path to your local fullstack-nanodegree-vm folder>/vagrant/tournament` folder. It will replace the default files `tournament.sql`, `tournament.py` and `tournament_test.py` with files from this repository.
+Follow the guidelines provided in the [project description][1] to set up the vagrant vm and clone the [fullstack-nanodegree-vm][2] repository. Clone [this][3] repository to `<path to your local fullstack-nanodegree-vm folder>/vagrant/tournament` folder. It will replace the default files `tournament.sql`, `tournament.py` and `tournament_test.py` with files from this repository.
 
 ## How to execute tests?
 After following the guidelines in project description and setting up the environment and vagrant vm using `vagrant up` followed by `vagrant ssh`
@@ -32,3 +32,4 @@ After following the guidelines in project description and setting up the environ
 
 [1]: https://docs.google.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=true
 [2]: https://github.com/udacity/fullstack-nanodegree-vm
+[3]: https://github.com/zeeshaanahmad/fsnd-p2-tournaments
